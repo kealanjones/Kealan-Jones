@@ -1,0 +1,173 @@
+
+
+body
+{
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+}
+
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem ;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+
+a{
+  color: #11999E;
+
+
+
+}
+
+.profile
+{
+  width:50%;
+  margin: 50px auto 80px auto;
+}
+
+
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+
+
+
+hr
+{
+  border-style: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  width: 8%;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
+
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.codeimage
+{
+  float: left;
+  margin-right: 30px;
+}
+
+.ttwo{
+  position: relative;
+  bottom: 25px;
+  float:right;
+  margin-left: 30px;
+
+}
+
+p{
+  color: #40514E;
+  font-size: 1.1rem;
+}
+
+
+
+.footer-link{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.3em;
+  text-decoration: none;
+  margin: 0 22px;
+}
+
+.contact-me{
+  line-height: 2;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.container1
+{
+  background-color: #e4f9f5;
+  font-family: sans-serif;
+  position: relative;
+  padding-top: 83px ;
+
+}
+
+.middle-container{
+padding: 50px 0 70px 0;
+
+}
+
+.bottom-container{
+padding: 80px 0;
+background-color: #66BFBF;
+
+}
+
+.mountain{
+  margin-bottom: 0;
+  border: none;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.rightcloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+
+}
+.leftcloud
+{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+}
+
+button{
+    color: #444444;
+    background: #EAF6F6;
+    border: 1px #DADADA solid;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 12pt;
+    outline: none;
+}
+
+button:hover {
+    border: 1px #C6C6C6 solid;
+    box-shadow: 1px 1px 1px #EAEAEA;
+    color: #333333;
+    background: #F7F7F7;
+}
+
+button:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;
+}
